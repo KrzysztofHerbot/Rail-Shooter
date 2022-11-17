@@ -1,2 +1,3 @@
 # Rail-Shooter
-https://simmer.io/@Kaech/deaf-spaceship-pilot-simulator
+available to play online here - https://simmer.io/@Kaech/deaf-spaceship-pilot-simulator
+Simple railshooter game with scripted events
