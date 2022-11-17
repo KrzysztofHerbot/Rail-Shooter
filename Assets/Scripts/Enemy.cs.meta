@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 210d31decd0afe841bd18da1b89da4ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ExplosionVFX: {instanceID: 0}
+  - EnemyExplosion: {fileID: 8300000, guid: 6712de0068ca62547a3c5d3dd9d520ce, type: 3}
+  - enemyHit: {fileID: 8300000, guid: 7e9dd521f8dcece448f996a27c6d831c, type: 3}
+  - HitVFX: {fileID: 4388688120245821136, guid: 2db8535741890d44d8127c542b455d79, type: 3}
+  - parent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
